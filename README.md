@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning ...
+  - React JS
+  - Node
+  - Django
+- 👯 I’m looking to collaborate on ...
+  - Python web projects
+  - Javascript projects
 <!--
 **jadry92/jadry92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
