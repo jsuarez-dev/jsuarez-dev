@@ -4,7 +4,7 @@ I'm an Electronic Engineer with a passion for creating technology
 
 - 🔭 I’m currently working on Building Automation.
 - 🌱 I’m currently learning Django and Backend technologies.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/johan-suarez-largo-a9980499/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-johan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/johan-suarez-largo-a9980499/)
 
 ### 🛠 Languages and Tools :
 <div>
